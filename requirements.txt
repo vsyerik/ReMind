@@ -1,0 +1,7 @@
+nltk
+textblob
+requests
+pyyaml
+
+# Testing dependencies (optional)
+# pytest>=7.0.0

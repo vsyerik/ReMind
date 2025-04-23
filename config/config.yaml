@@ -1,0 +1,14 @@
+custom_stopwords:
+  - something
+  - today
+  - another
+  - good
+  - okay
+  - really
+  - bit
+  - much
+  - more
+  - morning
+  - time
+  - last
+journal_dir: /Users/yourname/Journal # generic placeholder
